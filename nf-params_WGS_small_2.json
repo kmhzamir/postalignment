@@ -1,0 +1,17 @@
+{  
+    "input": "samplesheet_single_bai.csv",
+    "outdir": "run10/",
+    
+    "fasta" : "/home/user2/Desktop/raredisease-dev/reference/newindex/reference.fasta",
+    "fai" : "/home/user2/Desktop/raredisease-dev/reference/newindex/reference.fasta.fai",
+    "known_indels" : "/home/user2/Desktop/raredisease-dev/reference/hg38_v0_Homo_sapiens_assembly38.known_indels.vcf.gz",
+    "dbsnp" : "/home/user2/Desktop/raredisease-dev/reference/hg38_v0_Homo_sapiens_assembly38.dbsnp138.vcf.gz",
+    "intervals_wgs": "/home/user2/Desktop/raredisease-dev/reference/genome_new.interval_list",
+    "intervals_y": "/home/user2/Desktop/raredisease-dev/reference/genomeY_new.interval_list",
+
+    "known_indels_tbi" : "/home/user2/Desktop/raredisease-dev/reference/hg38_v0_Homo_sapiens_assembly38.known_indels.vcf.gz.tbi",
+    "dbsnp_tbi" : "/home/user2/Desktop/raredisease-dev/reference/hg38_v0_Homo_sapiens_assembly38.dbsnp138.vcf.gz.tbi",
+    "dict" : "/home/user2/Downloads/applybqsr/reference.dict"
+}
+
+
